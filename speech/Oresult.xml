@@ -1,0 +1,6 @@
+<speak xmlns="https://www.w3.org/2001/10/synthesis" version="1.0" xml:lang="en-US">
+  <voice name="zh-TW-YunJheNeural">
+    <prosody rate="0.95">如果想知道軟體價格，可點擊下方真人服務，我們將有專人提供您優惠的價格，或直接點擊以下連結 https://XXXX<break time="200ms" />
+    </prosody>
+  </voice>
+</speak>
