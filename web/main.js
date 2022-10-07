@@ -36,7 +36,6 @@ function open_sign_in_form(this_item) {
     file_name = this_item.id ;
     //呼叫的方式，就是加上eel.加上剛剛被expose PY function的名稱然後多加()輸入參數，最後加()取值
     lession = eel.open_sign_in_form(file_name)();
-
 }
 
 // 刪除按鈕後上回應
@@ -49,6 +48,5 @@ function update_display(display_content) {
     }
     // 插入預測的文字
     document.querySelector('#content-1-content').innerHTML = display_content;
-
 }
 
